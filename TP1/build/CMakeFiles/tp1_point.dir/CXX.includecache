@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/local.isima.fr/qufaure1/shared/TP_mod/TP1/src/point.cpp
+iostream
+-
+point.hpp
+/home/local.isima.fr/qufaure1/shared/TP_mod/TP1/src/point.hpp
+
+/home/local.isima.fr/qufaure1/shared/TP_mod/TP1/src/point.hpp
+
